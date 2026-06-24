@@ -1,65 +1,80 @@
 # Hi, I'm Sviatoslav (Slav) Pechenevskyi 👋
 
-### AI QA Engineer · LLM Evaluation Specialist · Implementation Consultant · svyatsolutions.com
+**AI QA Engineer · LLM Evaluation Specialist · Implementation Consultant**
 
-I build quality assurance systems for Generative AI — from evaluation 
-frameworks for enterprise deployment validation.
+I build quality assurance systems for Generative AI — from evaluation frameworks for enterprise deployment to HIPAA-compliant AI agents.
 
 ---
 
 ## 🎯 What I Do
 
-- **LLM Evaluation & Validation** — behavioral testing, output quality 
-  scoring, safety, and bias assessment for large language models
-- **AI Implementation Consulting** — requirements-to-deployment pipelines 
-  for enterprise AI systems (IBM Watsonx, Healthcare AI)
-- **Automated QA Engineering** — Python-based test automation, 
-  regression frameworks, edge case detection for AI outputs
-- **GRADE Framework** — author of a structured methodology for grading 
-  and evaluating generative AI model outputs
+- **LLM Evaluation & Validation** — behavioral testing, output quality scoring, safety, and bias assessment for large language models
+- **AI Implementation Consulting** — requirements to deployment pipelines for enterprise AI systems (IBM Watsonx, LangChain, RAG architectures)
+- **AI Safety Architecture** — 4-layer safety design: input validation → RAG constraints → output filters → MLflow audit logging
+- **GRADE Framework** — 10 failure patterns for store-level AI agents, 56 benchmark files, hallucination rate reduced from 12% to <1%
 
 ---
 
 ## 🏗️ Featured Projects
 
-### 🤖 IBM Watsonx Healthcare AI Lab
-Post-Discharge Patient Care Agent built with IBM Watsonx.  
-Stack: `watsonx.ai` · `watsonx Assistant` · `PostgreSQL/DB2` · 
-`Node.js` · `Flask` · `React` · `MLflow` · `Tableau`  
-Role: Full delivery cycle — research design, KPI dashboards, 
-conversation flows, escalation logic, and MLflow performance tracking.
+| Project                                                                      | Description                                                           | Stack                                          |
+|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------|
+| [Healthcare AI Agent](https://github.com/Svyatoslavpech/healthcare-ai-agent)                   | HIPAA-compliant agent · 4-layer safety · zero critical audit findings | IBM Watsonx · RAG · MLflow |
+| [Retail AI Intelligence](https://github.com/Svyatoslavpech/retail-ai-store-level-intelligence) | 5-agent system · GRADE Framework · $31B market gap                    | LangChain · Python · RAG   |
+| [Weather App QA](https://github.com/Svyatoslavpech/weather-app)                                | 6 automated tests · PromptFoo LLM evaluation suite                    | Mocha · Chai · PromptFoo   |
 
-### 📊 Cisco Network Dashboard (Sextant)
-Locally-hosted single-page application for IP and latency metrics.  
-Designed for field technicians. Built with `React`.
+---
 
-### 🌐 Portfolio — Wilmington University
-Full-stack web development portfolio:  
-`JavaScript` · `Database Foundations` · `Mobile App Development` · 
-`Web Design & Development`
+## 🧠 GRADE Framework
+
+Authored methodology for evaluating Store-Level AI agents in production.
+
+**10 failure patterns · 56 benchmark files · 15-20 scenarios per pattern**
+
+| Severity    |                                            Patterns                                             |
+|-------------|-------------------------------------------------------------------------------------------------|
+| 🔴 Critical | P1 Granularity Boundary · P3 Asymmetric Error Tolerance · P10 Sycophancy                        |
+| 🟡 High     | P2 Prompt Quality Variance · P6 State Drift · P9 Context Contamination                          |
+| 🟢 Moderate | P4 Role Inversion · P5 Adaptive Failure · P7 Reasoning Degradation · P8 Instruction Sensitivity |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**AI / ML:** IBM Watsonx · MLflow · LLM Evaluation · Prompt Engineering  
-**Languages:** Python · JavaScript · HTML/CSS  
-**Frameworks:** React · ASP.NET Core MVC · Entity Framework Core  
-**Databases:** PostgreSQL · DB2 · SQL  
-**Tools:** Git · Tableau · Power BI · Enterprise Design Thinking  
-**Domains:** Healthcare AI · QA Automation · Data Quality
+**AI/LLM Evaluation:** IBM Watsonx · LangChain · PromptFoo · MLflow · RAG · OWASP LLM Top 10
+
+**Development:** Python · JavaScript · ASP.NET Core · Mocha/Chai · Playwright
+
+**Cloud & Infra:** AWS (Terraform) · Azure AI · GitHub Actions · CI/CD
 
 ---
 
-## 📌 About Me
+## 📜 Certifications
 
-📍 Boise, Idaho, USA  
-🏆 Idaho CTE AI Panel Speaker — July 2026  
+- IBM AI Certificate 2025 (Watsonx · Enterprise Design Thinking · Granite)
+- Google Data Analytics 2025 — 99.50%
+- Generation USA AI Training 2025
+- Full Stack Web Dev — Wilmington University, Dean's List
+- 25+ total credentials
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-svyatsolution-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/svyatsolution)
+[![Portfolio](https://img.shields.io/badge/Portfolio-svyatsolutions.com-1F3864?style=flat&logo=google-chrome)](https://svyatsolutions.com)
+[![Email](https://img.shields.io/badge/Email-svyatoslavpech@gmail.com-D14836?style=flat&logo=gmail)](mailto:svyatoslavpech@gmail.com)
+
+---
+
+## 📍 About Me
+
+📌 Boise, Idaho, USA
+🎤 Idaho CTE AI Panel Speaker — July 2026
 🔗 [LinkedIn](https://linkedin.com/in/svyatsolution)
 
 ---
 
 🌐 [svyatsolutions.com](https://svyatsolutions.com)
 
-*Open to AI QA Engineer, LLM Evaluation Specialist, AI Implementation Consultant, 
-AI Product QA, AI Operations, and Technical Product Owner (AI) roles — remote-first, Boise, Idaho.*
+*Open to AI QA Engineer, LLM Evaluation Specialist, AI Implementation Consultant, AI Product QA, AI Operations, and Technical Product Owner (AI) roles — remote-first, Boise, Idaho.*
