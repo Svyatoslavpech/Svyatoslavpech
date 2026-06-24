@@ -1,6 +1,6 @@
 # Hi, I'm Sviatoslav (Slav) Pechenevskyi 👋
 
-### AI QA Engineer · LLM Evaluation Specialist · Implementation Consultant
+### AI QA Engineer · LLM Evaluation Specialist · Implementation Consultant · svyatsolutions.com
 
 I build quality assurance systems for Generative AI — from evaluation 
 frameworks for enterprise deployment validation.
@@ -59,5 +59,7 @@ Full-stack web development portfolio:
 
 ---
 
-*Open to AI QA roles, LLM evaluation contracts, and 
-implementation consulting engagements.*
+🌐 [svyatsolutions.com](https://svyatsolutions.com)
+
+*Open to AI QA Engineer, LLM Evaluation Specialist, AI Implementation Consultant, 
+AI Product QA, AI Operations, and Technical Product Owner (AI) roles — remote-first, Boise, Idaho.*
