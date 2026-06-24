@@ -43,7 +43,7 @@ Full-stack web development portfolio:
 ## 🛠️ Tech Stack
 
 **AI / ML:** IBM Watsonx · MLflow · LLM Evaluation · Prompt Engineering  
-**Languages:** Python · JavaScript · C# · HTML/CSS  
+**Languages:** Python · JavaScript · HTML/CSS  
 **Frameworks:** React · ASP.NET Core MVC · Entity Framework Core  
 **Databases:** PostgreSQL · DB2 · SQL  
 **Tools:** Git · Tableau · Power BI · Enterprise Design Thinking  
