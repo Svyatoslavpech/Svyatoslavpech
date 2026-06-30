@@ -11,7 +11,7 @@ I build quality assurance systems for Generative AI — from evaluation framewor
 - **LLM Evaluation & Validation** — behavioral testing, output quality scoring, safety, and bias assessment for large language models
 - **AI Implementation Consulting** — requirements to deployment pipelines for enterprise AI systems (IBM Watsonx, LangChain, RAG architectures)
 - **AI Safety Architecture** — 4-layer safety design: input validation → RAG constraints → output filters → MLflow audit logging
-- **GRADE Framework** — 10 failure patterns for store-level AI agents, 56 benchmark files, hallucination rate reduced from 12% to <1%
+- **GRADE Framework** — 10 failure patterns for store-level AI agents, 56 benchmark files, systematic evaluation methodology for AI agent reliability
 
 ---
 
