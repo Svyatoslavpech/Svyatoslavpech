@@ -41,11 +41,11 @@ Authored methodology for evaluating Store-Level AI agents in production.
 
 ## 🛠️ Tech Stack
 
-**AI/LLM Evaluation:** IBM Watsonx · LangChain · PromptFoo · MLflow · RAG · OWASP LLM Top 10
+**AI/LLM Evaluation:** IBM Watsonx · LangChain · MLflow · RAG 
 
-**Development:** Python · JavaScript · ASP.NET Core · Mocha/Chai · Playwright
+**Development:** Python · JavaScript · Mocha/Chai · Playwright
 
-**Cloud & Infra:** AWS (Terraform) · Azure AI · GitHub Actions · CI/CD
+**Cloud & Infra:** AWS (Terraform) · GitHub Actions · CI/CD
 
 ---
 
