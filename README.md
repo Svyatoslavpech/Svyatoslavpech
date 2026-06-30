@@ -21,7 +21,7 @@ I build quality assurance systems for Generative AI — from evaluation framewor
 |------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|------------------------------|
 | [Healthcare AI Agent](https://github.com/Svyatoslavpech/healthcare-ai-agent)                   | HIPAA-compliant agent · 4-layer safety · zero critical audit findings | IBM Watsonx · RAG · MLflow |
 | [Retail AI Intelligence](https://github.com/Svyatoslavpech/retail-ai-store-level-intelligence) | 5-agent system · GRADE Framework · $31B market gap                    | LangChain · Python · RAG   |
-| [Weather App QA](https://github.com/Svyatoslavpech/weather-app)                                | 6 automated tests · PromptFoo LLM evaluation suite                    | Mocha · Chai · PromptFoo   |
+| [Weather App QA](https://github.com/Svyatoslavpech/weather-app)                                | 6 automated tests · input validation, encoding, DOM rendering                    | Mocha · Chai · JavaScript   |
 
 ---
 
